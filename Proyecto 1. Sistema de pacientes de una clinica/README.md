@@ -1,6 +1,5 @@
-# Proyecto 1. Sistema de pacientes de una clinica
-
 # Estructuras de Datos
+# Proyecto 1. Sistema de pacientes de una clinica
 ## Datos del alumno
 Nombre: Juan Pérez López
 Número de control: 12345678

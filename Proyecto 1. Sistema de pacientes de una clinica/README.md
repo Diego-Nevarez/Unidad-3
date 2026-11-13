@@ -1,5 +1,15 @@
 # Proyecto 1. Sistema de pacientes de una clinica
+
+# Estructuras de Datos
+## Datos del alumno
+Nombre: Juan Pérez López
+Número de control: 12345678
+Carrera: Ingeniería en Sistemas Computacionales
+Materia: Estructuras de Datos
+
+### Descripción
 Desarrollar un programa que simule el control de pacientes en una clínica utilizando una cola (Queue), funciones: registrar paciente, atender pacientes y mostrar pacientes.
+
 
 **Funciones**
 
@@ -18,3 +28,14 @@ Desarrollar un programa que simule el control de pacientes en una clínica utili
 *Cuando se atiende un paciente:*
 Paciente atendido con éxito:
 1.- Expediente: 101 - Juan Pérez (Edad: 30, Prioridad: 1)
+
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- Modularidad
+- Condicionales
+- Entrada y salida de datos

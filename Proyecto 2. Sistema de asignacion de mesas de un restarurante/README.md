@@ -20,5 +20,5 @@
 Cuando una mesa queda disponible
 Mesa 4 disponible
 
-atendiendo:
+**atendiendo:**
 1.- familia Lopez .- 4 personas

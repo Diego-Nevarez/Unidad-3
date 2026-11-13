@@ -18,12 +18,7 @@ Funciones
  Manejar parentesis 
  Manejar operadores
 
-+
--
-*
-/
-%
-^
++, -, *, /, %, ^
 Detectar errores matematicas 
 Ejemplo
 Entrada 

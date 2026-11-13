@@ -1,4 +1,11 @@
-# Proyecto 2. Sistema de asignacion de mesas de un restarurante
+# Estructuras de Datos
+## Proyecto 1. Sistema de pacientes de una clinica
+## Datos del alumno
+Nombre: Diego Alexander Nevarez Rodriguez
+Número de control: 25410149
+Carrera: Ingeniería en Sistemas Computacionales
+Materia: Estructuras de Datos
+
 **Funciones**
 * Registrar cliente
 * Registrar numero de personas

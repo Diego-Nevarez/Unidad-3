@@ -12,5 +12,6 @@ El sistema deberá almacenar las paginas visitadas  y permitir: pagina actual
 * Buscar una pagina
 * Mostrar ultima pagina visitada
 
-**Ejemplo**
+**Ejemplo:**
+
 google 

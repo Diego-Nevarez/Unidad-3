@@ -1,5 +1,5 @@
 # Proyecto 2. Sistema de asignacion de mesas de un restarurante
-Funciones
+**Funciones**
 Registrar cliente
 Registrar numero de personas
 Agregar cliente a lista de espera

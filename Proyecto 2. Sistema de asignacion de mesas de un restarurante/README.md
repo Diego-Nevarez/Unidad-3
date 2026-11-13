@@ -1,6 +1,6 @@
 # Estructuras de Datos
-## Proyecto 1. Sistema de pacientes de una clinica
-## Datos del alumno
+## Proyecto 2. Sistema de asignacion de mesas de un restarurante
+### Datos del alumno
 Nombre: Diego Alexander Nevarez Rodriguez
 Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
@@ -30,3 +30,14 @@ Mesa 4 disponible
 **Atendiendo:**
 
 1.- familia Lopez .- 4 personas
+
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- Modularidad
+- Condicionales
+- Entrada y salida de datos

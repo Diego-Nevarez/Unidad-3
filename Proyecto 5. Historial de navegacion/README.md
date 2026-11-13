@@ -1,6 +1,5 @@
 # Proyecto 5. Historial de navegacion
-Sistema de historial de navegación web 
-crear un navegador web simulado 
+Crear un navegador web simulado 
 El sistema deberá almacenar las paginas visitadas  y permitir: pagina actual 
 -> Historial
 

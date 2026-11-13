@@ -14,11 +14,11 @@ El temario propone especificamente desarrollar una clase calculadora que convier
 y posteriormente las evalue utilizando pilas
 Funciones
 
-. Validar expresion
-. Convertir infijas -> postfija
-. Evaluar expresion postfija
-. Manejar parentesis 
-. Manejar operadores
+ Validar expresion
+ Convertir infijas -> postfija
+ Evaluar expresion postfija
+ Manejar parentesis 
+ Manejar operadores
 
 +
 -

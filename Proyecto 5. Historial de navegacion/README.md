@@ -3,7 +3,7 @@ Sistema de historial de navegación web
 crear un navegador web simulado 
 El sistema deberá almacenar las paginas visitadas  y permitir: pagina actual 
 -> Historial
-Funciones
+**Funciones**
 . Visitar pagina
 . Regresar 
 . Avanzar 

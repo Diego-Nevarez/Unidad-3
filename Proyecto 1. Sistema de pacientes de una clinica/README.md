@@ -1,1 +1,0 @@
-# Proyecto 1. Sistema de pacientes de una clinica

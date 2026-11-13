@@ -1,5 +1,5 @@
 # Proyecto 1. Sistema de pacientes de una clinica
-
+Desarrollar un programa que simule el control de pacientes en una clínica utilizando una cola (Queue), funciones: registrar paciente, atender pacientes y mostrar pacientes.
 
 **Funciones**
 

@@ -1,8 +1,8 @@
 # Estructuras de Datos
-# Proyecto 1. Sistema de pacientes de una clinica
+## Proyecto 1. Sistema de pacientes de una clinica
 ## Datos del alumno
-Nombre: Juan Pérez López
-Número de control: 12345678
+Nombre: Diego Alexander Nevarez Rodriguez
+Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 

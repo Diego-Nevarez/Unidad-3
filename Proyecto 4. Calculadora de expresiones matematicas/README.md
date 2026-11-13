@@ -22,6 +22,7 @@ y posteriormente las evalue utilizando pilas
 * +, -, *, / , % , ^
 * Detectar errores matematicas 
 **Ejemplo**
+  
 Entrada 
 (10 + 5) * 2 - 8
 

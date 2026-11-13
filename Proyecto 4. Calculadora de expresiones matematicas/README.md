@@ -11,13 +11,13 @@ y obtener:
 Resultado = 16
 El temario propone especificamente desarrollar una clase calculadora que convierta expresiones infijas a posfijas 
 y posteriormente las evalue utilizando pilas
-Funciones
+**Funciones**
 
- Validar expresion
- Convertir infijas -> postfija
- Evaluar expresion postfija
- Manejar parentesis 
- Manejar operadores
+* Validar expresion
+* Convertir infijas -> postfija
+* Evaluar expresion postfija
+* Manejar parentesis 
+* Manejar operadores
 
 +, -, *, /, %, ^
 Detectar errores matematicas 

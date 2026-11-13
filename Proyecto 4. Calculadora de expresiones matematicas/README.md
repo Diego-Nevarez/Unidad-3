@@ -19,8 +19,18 @@ y posteriormente las evalue utilizando pilas
 * Evaluar expresion postfija
 * Manejar parentesis 
 * Manejar operadores
++
 
-+, -, *, /, %, ^
+-
+
+*
+
+
+ / 
+ 
+ %
+ 
+ ^
 Detectar errores matematicas 
 Ejemplo
 Entrada 

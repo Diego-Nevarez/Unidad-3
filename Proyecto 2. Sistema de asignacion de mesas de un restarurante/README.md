@@ -11,7 +11,7 @@
 * Mostrar mesas disponibles
 * Mostrar mesas ocupadas
 
-ejemplo
+**Ejemplo**
 
 1.- Familia Lopez .- 4 personas
 2.- Ana Martinez .- 2 personas

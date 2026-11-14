@@ -7,5 +7,6 @@ Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 # Todos los codigos a entregar
 * Proyecto 1. Sistema de pacientes de una clinica
+* Proyecto 2. Sistema de asignacion de mesas de un restarurante
 * Proyecto 5. Historial de navegacion
 

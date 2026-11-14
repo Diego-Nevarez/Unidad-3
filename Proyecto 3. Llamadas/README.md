@@ -1,4 +1,11 @@
-# Proyecto 3. Llamadas
+# Estructuras de Datos
+## Proyecto 3. Llamadas
+### Datos del alumno
+Nombre: Diego Alexander Nevarez Rodriguez
+Número de control: 25410149
+Carrera: Ingeniería en Sistemas Computacionales
+Materia: Estructuras de Datos
+
 Desarrollar un programa que simule llamadas a funciones utilizando pila 
 
 **Funciones**

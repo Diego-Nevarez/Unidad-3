@@ -1,5 +1,5 @@
 # Estructuras de Datos
-# Proyecto 5. Historial de navegacion
+## Proyecto 5. Historial de navegacion
 ### Datos del alumno
 Nombre: Diego Alexander Nevarez Rodriguez
 

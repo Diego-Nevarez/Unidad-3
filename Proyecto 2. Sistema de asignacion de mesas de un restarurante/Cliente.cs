@@ -5,17 +5,18 @@ namespace Proyecto2_Restaurante
 {
     public class Cliente
     {
-        public string Nombre { get; set; }
-        public int Persona { get; set; }
+        public string Nombre { get; set; } // Nombre del cliente o familia
+        public int Persona { get; set; }     // Número de personas que integran el grupo
 
         public Cliente(string nombre, int persona)
         {
-            Nombre = nombre;
-            Persona = persona;
-
+            Nombre = nombre;     // Asigna el nombre recibido al objeto
+            Persona = persona;   // Asigna el número de personas recibido al objeto
         }
+
         public override string ToString()
         {
+            // Devuelve una cadena con el formato personalizado para mostrar en consola
             return $"{Nombre}-{Persona}personas";
         }
     }

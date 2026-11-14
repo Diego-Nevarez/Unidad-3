@@ -26,3 +26,15 @@ y posteriormente las evalue utilizando pilas
 Entrada 
 (10 + 5) * 2 - 8
 
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- Modularidad
+- Condicionales
+- Entrada y salida de datos
+
+

@@ -34,3 +34,15 @@ Ahora
 
 RegistrarCliente 
 Esto permite relacionar la pila con el funcionamiento de la memoria de llamadas de metodos
+
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- Modularidad
+- Condicionales
+- Entrada y salida de datos
+

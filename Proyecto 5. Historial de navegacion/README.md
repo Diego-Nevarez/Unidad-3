@@ -27,3 +27,14 @@ El sistema deberá almacenar las paginas visitadas  y permitir: pagina actual
 **Ejemplo:**
 
 google 
+
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- Modularidad
+- Condicionales
+- Entrada y salida de datos

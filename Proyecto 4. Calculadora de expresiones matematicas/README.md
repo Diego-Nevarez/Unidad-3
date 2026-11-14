@@ -1,4 +1,13 @@
-# Proyecto 4. Calculadora de expresiones matematicas
+# Estructuras de Datos
+## Proyecto 4. Calculadora de expresiones matematicas
+### Datos del alumno
+Nombre: Diego Alexander Nevarez Rodriguez
+
+Número de control: 25410149
+
+Carrera: Ingeniería en Sistemas Computacionales
+
+Materia: Estructuras de Datos
 
 Este seria uno de los proyectos mas importantes de la unidad 
 el programa Debera convertir expresiones

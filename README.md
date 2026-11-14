@@ -6,5 +6,6 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 # Todos los codigos a entregar
+* Proyecto 1. Sistema de pacientes de una clinica
 * Proyecto 5. Historial de navegacion
 

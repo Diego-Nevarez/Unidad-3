@@ -4,6 +4,7 @@
 Nombre: Diego Alexander Nevarez Rodriguez
 
 Número de control: 25410149
+
 Carrera: Ingeniería en Sistemas Computacionales
 
 Materia: Estructuras de Datos

@@ -2,8 +2,11 @@
 ## Proyecto 2. Sistema de asignacion de mesas de un restarurante
 ### Datos del alumno
 Nombre: Diego Alexander Nevarez Rodriguez
+
 Número de control: 25410149
+
 Carrera: Ingeniería en Sistemas Computacionales
+
 Materia: Estructuras de Datos
 
 **Funciones**
